@@ -7,3 +7,4 @@ commit for feature 2
 main is ahead
 main is ahead
 main is ahead
+feature is ahead
